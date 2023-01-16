@@ -1,4 +1,4 @@
-### ¡Hola mundo! 👋
+### Hello World! 👋
 
 <!--
 
