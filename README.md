@@ -1,10 +1,6 @@
 
 ### Hello World! 👋
 
-<!--View Counter-->
-![](https://komarev.com/ghpvc/?username=blueslaboratory&color=blue)
-
-
 <!--
 
 ### Hi there, just checking out this feature 👋
@@ -26,3 +22,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/blueslaboratory/blueslaboratory">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=blueslaboratory&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=00eeff&bg_color=1d1f21" alt="Blueslaboratory's GitHub Stats" />
 </a>
+
+<!--View Counter-->
+![](https://komarev.com/ghpvc/?username=blueslaboratory&color=blue)
