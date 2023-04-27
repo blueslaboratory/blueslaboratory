@@ -1,3 +1,6 @@
+<!--View Counter-->
+![](https://komarev.com/ghpvc/?username=blueslaboratory&color=blue)
+
 ### Hello World! 👋
 
 <!--
